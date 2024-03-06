@@ -1,0 +1,182 @@
+﻿Inf,UID,Name,Club,Position,Age,Ability,Transfer Value,Salary,Aeriel Reach,Strength,Jumping,Vision,Bravery,Technique,Heading,First Touch,Pace,Positioning,Decisions,Concentration,Composure,Anticipation,Tackling,Passing,Marking,Recommendation,Preferred Foot,Crossing,Teamwork,Workrate,Stamina,Acceleration
+,67197145,Lucas Hernández - French,Paris SG - Ligue 1 Uber Eats,D (LC),27,Unknown,£143M - £173M,"£275,000 p/w",3,14,14,12,19,13,14,14,15,16,14,15,14,16,17,14,16,- - -,Left,12,16,18,15,14
+,43075156,Giovanni Di Lorenzo - Italian,Parthenope - Italian Serie A,"D (RC), WB/M (R)",30,Unknown,£104M - £158M,"£92,000 p/w",3,14,14,11,16,11,17,12,17,13,14,13,14,14,16,13,14,- - -,Right,13,17,17,17,15
+,24060473,Joško Gvardiol - Croatian,Man City - English Premier Division,"D (LC), WB (L)",21,Unknown,£98M - £118M,"£200,000 p/w",2,16,13,13,17,13,13,13,15,14,13,14,16,14,14,14,14,- - -,Left,11,14,16,14,14
+,86066853,Piero Hincapié - Ecuadorian,Bayer 04 - Bundesliga,"D (LC), WB (L)",21,Unknown,£76M - £91M,"£58,000 p/w",4,14,13,12,16,12,13,12,15,14,13,13,14,14,15,13,15,- - -,Left,10,13,15,14,14
+Inj,37084591,Micky van de Ven - Dutch,Tottenham - English Premier Division,"D (LC), WB (L)",22,Unknown,£71M - £90M,"£100,000 p/w",3,15,15,12,16,13,13,12,19,14,14,13,13,13,14,13,14,- - -,Left,11,13,15,13,16
+,85120944,Benjamin Pavard - French,Inter - Italian Serie A,D (RC),27,Unknown,£67M - £102M,"£125,000 p/w",1,13,15,14,14,14,16,14,14,16,14,16,17,16,15,15,15,- - -,Right,12,17,16,16,12
+,28100123,Aaron Wan-Bissaka - English,Man UFC - English Premier Division,D (R),26,,£52M - £64M,"£120,000 p/w",3,13,10,6,18,11,8,12,15,12,12,12,12,13,20,11,13,- - - B-,Right,11,15,14,15,17
+,28111063,Ben Johnson - English,West Ham - English Premier Division,D (RL),23,,£52M - £63M,"£74,000 p/w",2,12,12,10,14,12,11,12,13,13,13,14,13,14,14,10,14,- - - C-,Right,13,15,14,14,13
+,49047065,Mohamed Simakan - French,RB Leipzig - Bundesliga,"D (RC), WB (R)",23,Unknown,£50M - £60M,"£74,000 p/w",1,15,14,12,16,12,14,12,16,14,13,13,14,14,15,13,14,- - -,Right,12,14,14,14,14
+,49048381,Kiliann Sildillia - French,SC Freiburg - Bundesliga,"D (RC), WB (R)",21,Unknown,£50M - £60M,"£24,500 p/w",1,13,14,11,16,12,14,12,13,14,13,13,12,13,13,12,13,- - -,Right,12,16,16,14,14
+,37064720,Lutsharel Geertruida - Dutch,Feyenoord - Eredivisie,"D (RC), WB (R), DM",23,Unknown,£45M - £68M,"£9,750 p/w",2,13,13,13,14,13,14,13,13,13,13,15,14,14,13,13,12,- - -,Right,9,14,15,14,12
+Int,12038706,Ramy Bensebaïni - Algerian,Borussia Dortmund - Bundesliga,"D (LC), WB (L)",28,Unknown,£39M - £60M,"£99,000 p/w",2,14,16,12,16,13,16,13,15,13,13,12,14,14,15,13,13,- - -,Left,13,13,13,16,13
+,27161400,Victor Kristiansen - Danish,Bologna - Italian Serie A,D/WB (L),21,Unknown,£37M - £57M,"£30,000 p/w",2,13,12,13,15,13,12,13,15,12,13,13,13,12,13,13,13,- - -,Left,13,14,14,16,13
+,63029353,Dávid Hancko - Slovak,Feyenoord - Eredivisie,"D (LC), WB (L)",26,Unknown,£36M - £44M,"£12,750 p/w",3,12,16,13,11,11,11,11,12,13,16,14,13,13,15,14,12,- - -,Left,13,15,12,14,14
+,14186894,Juan Foyth - Argentinian,Villarreal - Spanish First Division,"D (RC), DM",25,Unknown,£33M - £51M,"£36,000 p/w",1,13,13,13,16,15,15,15,14,14,12,12,16,14,16,14,14,- - -,Right,11,15,16,15,13
+,53113114,Julian Ryerson - Norwegian,Borussia Dortmund - Bundesliga,D/WB (RL),26,Unknown,£33M - £49M,"£58,000 p/w",2,13,10,11,16,13,8,12,13,13,12,14,12,12,14,12,13,- - -,Right,12,17,16,16,13
+,29115800,Joe Gomez - English,Liverpool - English Premier Division,D (RLC),26,Unknown,£32M - £49M,"£95,000 p/w",2,15,14,7,15,14,15,15,16,15,14,13,14,13,15,14,15,- - -,Right,11,15,14,15,16
+,83105845,Diogo Dalot - Portuguese,Man UFC - English Premier Division,"D (RL), WB (R)",24,Unknown,£31M - £37M,"£85,000 p/w",2,13,13,11,12,13,12,14,14,14,12,12,13,14,13,13,12,- - -,Right,13,14,15,15,14
+,2000036812,Callum Doyle - English,Leicester - Sky Bet Championship,D (LC),20,Unknown,£29M - £44M,"£10,000 p/w",2,15,14,14,13,12,14,12,13,14,14,12,14,14,13,14,12,- - -,Left,13,14,13,14,13
+Inj,91126230,Thilo Kehrer - German,West Ham - English Premier Division,"D (RC), DM",27,,£29M - £42M,"£95,000 p/w",3,13,14,12,14,13,14,13,15,12,12,12,14,13,15,13,14,- - - C+,Right,10,13,13,14,13
+Sct,2000165653,Iván Fresneda - Spanish,Sporting CP - Portuguese Premier League,D/WB (R),19,Unknown,£28M - £34M,"£24,500 p/w",1,12,10,12,14,12,7,12,15,13,13,14,13,14,14,12,14,- - -,Right,11,14,14,14,13
+Sct,2000062512,Arnau Martínez - Spanish,Girona - Spanish First Division,"D (RC), WB (R)",20,Unknown,£27M - £41M,"£15,250 p/w",2,12,10,12,13,13,9,11,13,14,13,15,14,14,15,12,13,- - -,Right,12,14,14,13,12
+,71075952,Mykola Matviienko - Ukrainian,Shakhtar - Ukrainian Premier League,"D (LC), WB (L)",27,Unknown,£27M - £40M,"£15,000 p/w",1,13,12,14,17,12,14,12,14,12,13,13,12,12,13,15,14,- - -,Left,11,15,14,14,13
+,37071180,Quilindschy Hartman - Dutch,Feyenoord - Eredivisie,D/WB (L),22,Unknown,£26M - £41M,"£5,250 p/w",3,10,8,12,15,12,7,12,14,14,11,12,14,12,14,12,13,- - -,Left,15,16,17,16,15
+,91132680,Benjamin Henrichs - German,RB Leipzig - Bundesliga,D/WB (RL),26,,£26M,"£62,000 p/w",1,13,12,13,16,13,11,13,14,13,13,13,13,13,15,14,12,- - - C-,Right,12,15,15,15,13
+,78076343,Mathías Olivera - Uruguayan,Parthenope - Italian Serie A,D/WB/M (L),26,Unknown,£22M - £28M,"£31,500 p/w",1,14,13,11,14,12,15,13,14,14,13,14,13,14,16,13,13,- - -,Left,14,15,16,15,14
+,27122563,Mads Roerslev - Danish,Brentford - English Premier Division,D/WB (R),24,,£21M,"£30,000 p/w",1,12,12,13,14,14,12,13,14,14,14,14,13,13,13,14,13,- - - C+,Right,13,14,14,14,14
+,28084863,Matthew Targett - English,Newcastle - English Premier Division,D/WB (L),28,Unknown,£20M - £25M,"£80,000 p/w",1,14,12,13,12,12,12,13,14,13,13,13,13,13,14,13,12,- - -,Left,13,14,14,14,14
+Sct,43424738,Riccardo Calafiori - Italian,Bologna - Italian Serie A,D (LC),21,Unknown,£19.5M - £30M,"£18,250 p/w",3,14,12,12,11,14,12,13,14,12,13,13,14,15,14,12,12,- - -,Left,13,14,14,12,13
+,72051619,Joe Scally - American,Borussia M'gladbach - Bundesliga,D/WB (RL),21,Unknown,£19.5M - £24M,"£24,500 p/w",3,11,11,11,14,12,10,12,15,12,12,13,10,12,12,12,12,- - -,Right,12,16,16,16,14
+,67212046,Alfonso Pedraza - Spanish,Villarreal - Spanish First Division,D/WB/M/AM (L),27,Unknown,£19M - £29M,"£42,000 p/w",2,12,11,11,12,12,12,12,16,13,13,14,11,14,12,12,12,- - -,Left,15,14,14,15,15
+,29140167,James Justin - English,Leicester - Sky Bet Championship,"D (RLC), WB (RL)",25,Unknown,£18M - £23M,"£65,000 p/w",1,12,12,11,11,13,12,11,14,14,13,12,12,12,12,12,13,- - -,Right,11,14,14,14,14
+,91105585,Christian Günter - German,SC Freiburg - Bundesliga,D/WB (L),30,Unknown,£17M - £21M,"£32,000 p/w",1,12,10,11,13,12,7,12,16,12,12,12,11,12,12,11,12,- - -,Left,16,14,16,17,14
+Bid,45109024,Hiroki Ito - Japanese,VfB Stuttgart - Bundesliga,"D (LC), WB (L)",24,Unknown,£15M - £23M,"£41,000 p/w",3,13,12,12,13,12,12,12,15,15,14,14,15,14,14,13,13,- - -,Left,12,16,14,14,13
+,91190673,Josip Stanišić - Croatian,Bayer 04 - Bundesliga,"D (RLC), WB (R), DM",23,Unknown,£14M - £16.5M,"£41,000 p/w",1,13,13,12,16,12,13,12,15,13,13,14,12,13,15,13,13,- - -,Right,12,16,15,14,12
+Inj,16147700,Maximilian Wöber - Austrian,Borussia M'gladbach - Bundesliga,D (LC),25,Unknown,£13.5M - £21M,"£25,000 p/w",1,14,14,12,16,12,14,12,13,14,12,12,14,14,14,13,13,- - -,Left,11,16,15,13,12
+,67245413,Óscar Mingueza - Spanish,Vigo - Spanish First Division,"D (RLC), WB (R)",24,Unknown,£13.5M - £16.5M,"£18,750 p/w",3,13,13,13,15,13,14,12,14,14,12,13,14,14,15,13,13,- - -,Right,12,15,16,14,13
+,29076103,Calum Chambers - English,Aston Villa - English Premier Division,"D (RC), DM",28,Unknown,£13M - £16.5M,"£55,000 p/w",4,13,14,12,14,13,14,13,13,13,13,13,14,12,14,13,14,- - -,Right,12,15,15,14,13
+Ask,2000101248,Marc Pubill - Spanish,Almería - Spanish First Division,D/WB (R),20,Unknown,£12.5M - £19M,"£4,100 p/w",3,13,12,9,13,11,11,11,15,12,13,13,12,13,13,12,12,- - -,Right,12,14,15,14,13
+,2000053930,José Ángel Carmona - Spanish,Getafe - Spanish First Division,"D (RC), WB (R)",21,Unknown,£11.5M - £17.5M,"£16,250 p/w",1,12,10,11,15,12,9,11,13,13,13,14,11,13,13,9,14,- - -,Right,11,14,15,14,14
+Wnt,37058008,Jordan Teze - Dutch,PSV - Eredivisie,"D (RC), WB (R), DM",24,Unknown,£10.5M - £16M,"£13,250 p/w",1,13,13,11,12,12,12,13,13,14,13,12,13,12,13,15,12,- - -,Right Only,11,14,14,15,13
+,28122834,Dennis Cirkin - Irish,Sunderland - Sky Bet Championship,"D (LC), WB (L)",21,Unknown,£10M - £15M,"£10,000 p/w",3,10,10,9,12,13,11,13,13,13,12,12,12,12,13,15,14,- - -,Left Only,12,13,15,14,14
+,78077014,Joaquín Piquerez - Uruguayan,SEP - Brazilian National First Division,D/WB (L),25,Unknown,£9.4M - £14.5M,"£14,750 p/w",2,14,12,12,12,13,12,13,13,14,14,13,13,13,13,12,14,- - -,Left Only,13,15,14,14,12
+,16147386,Stefan Posch - Austrian,Bologna - Italian Serie A,D (RC),26,Unknown,£9.4M - £14M,"£16,500 p/w",2,15,15,11,14,11,14,11,15,12,13,13,16,14,14,12,13,- - -,Right,12,16,11,16,13
+Wnt,19171604,Matheus Reis - Portuguese,Sporting CP - Portuguese Premier League,"D (LC), WB (L)",28,Unknown,£9.2M - £14M,"£29,500 p/w",2,14,12,14,12,15,10,14,13,13,14,15,16,13,14,14,13,- - -,Left Only,11,13,14,14,13
+,25062133,David Jurásek - Czech,Benfica - Portuguese Premier League,D/WB (L),23,Unknown,£8.8M - £10.5M,"£18,500 p/w",3,14,11,14,14,13,11,14,14,12,12,15,14,12,14,13,13,- - -,Left Only,16,13,14,15,15
+,91134708,Lukas Klostermann - German,FC Bayern - Bundesliga,"D (RLC), WB (R)",27,Unknown,£8M - £12M,"£63,000 p/w",3,14,14,12,15,12,13,12,17,13,13,14,12,14,13,13,14,- - -,Right,11,16,15,15,15
+Sct,83228369,Alexandre Penetra - Portuguese,AZ - Eredivisie,D (RC),22,Unknown,£7.8M - £9.4M,"£7,000 p/w",1,12,12,12,13,11,15,12,12,14,13,14,12,14,13,13,14,- - -,Right,12,14,13,13,12
+,49034179,Anthony Caci - French,Mainz 05 - Bundesliga,"D (RLC), WB (RL)",26,Unknown,£7.2M - £9M,"£29,000 p/w",3,13,12,12,13,12,12,12,13,13,12,12,12,13,14,12,13,- - -,Right,15,15,13,14,12
+,2000090212,Sebastián Boselli - Uruguayan,River - Argentine Premier Division,D (RC),20,Unknown,£7M - £10.5M,"£7,000 p/w",3,11,14,14,11,12,15,12,14,13,12,12,7,14,16,12,12,- - -,Right,10,15,12,12,14
+Wnt,48034615,Nordi Mukiele - French,Paris SG - Ligue 1 Uber Eats,"D (RC), WB (R)",26,Unknown,£6.6M - £8.4M,"£49,500 p/w",3,14,15,12,17,13,13,13,15,12,12,12,13,15,15,13,14,- - -,Right,13,15,14,15,14
+Int,83259113,Bruno Onyemaechi - Nigerian,BVT - Portuguese Premier League,"D (LC), WB (L)",24,Unknown,£6.6M - £8M,"£1,800 p/w",4,14,13,11,12,12,13,13,15,12,11,14,11,13,13,11,12,- - -,Left Only,12,12,14,15,15
+Trn,19350649,Carlos Augusto - Brazilian,Inter - Italian Serie A,D/WB/M (L),24,Unknown,£6.4M - £7.8M,"£46,500 p/w",1,12,11,13,16,14,12,13,15,12,14,13,14,14,13,14,12,- - -,Left,14,14,15,14,15
+,91143703,Marco Friedl - Austrian,SV Werder - Bundesliga,"D (LC), WB (L), DM",25,Unknown,£6.2M - £7.8M,"£24,500 p/w",1,13,12,12,14,13,12,12,14,13,12,12,12,13,15,13,13,- - -,Left,12,14,13,15,12
+,43161921,Giuseppe Pezzella - Italian,Empoli - Italian Serie A,D/WB/M (L),26,Unknown,£6.2M - £7.4M,"£13,750 p/w",3,14,12,10,13,12,11,12,14,12,11,12,12,12,14,11,12,- - -,Left,12,15,15,13,14
+,28116307,Harry Clarke - English,Ipswich - Sky Bet Championship,"D (RC), WB (R)",22,Unknown,£5.4M - £6.6M,"£12,500 p/w",1,11,13,7,13,10,12,11,14,12,11,12,10,12,13,11,12,- - -,Right,11,14,17,12,14
+,37060899,Gijs Smal - Dutch,FC Twente - Eredivisie,D/WB (L),26,Unknown,£4.7M - £5.8M,"£2,500 p/w",1,12,11,12,13,13,11,12,12,13,12,15,13,12,12,14,12,- - -,Left,12,14,15,14,13
+,98010781,Silvan Widmer - Swiss,Mainz 05 - Bundesliga,"D (RC), WB (R)",30,Unknown,£4.6M - £8.4M,"£29,500 p/w",2,12,12,11,14,12,13,12,15,12,12,12,12,12,13,11,12,- - -,Right,12,16,17,16,13
+Int,83149225,Fali Candé - Bissau-Guinean,FC Metz - Ligue 1 Uber Eats,"D (LC), WB (L)",25,Unknown,£4.4M - £8.2M,"£7,250 p/w",2,14,9,12,12,11,9,11,13,13,12,12,12,13,13,13,13,- - -,Left Only,12,13,14,13,14
+Int,49038621,Houboulang Mendes - Bissau-Guinean,Almería - Spanish First Division,"D (RC), WB (R)",25,Unknown,£4.3M - £8M,"£24,000 p/w",3,14,12,12,16,11,13,11,13,12,10,12,13,13,13,12,13,- - -,Right,12,12,14,15,12
+,19231123,Léo - Brazilian,VDG - Brazilian National First Division,D (LC),27,Unknown,£4.2M - £5.4M,"£11,750 p/w",2,14,13,11,12,12,13,12,14,14,12,12,12,13,14,14,12,- - -,Left Only,12,13,12,15,14
+,43252473,Enrico Delprato - Italian,Parma - Italian Serie B,"D (RC), WB/M (R)",24,Unknown,£4.1M - £7.8M,"£16,500 p/w",3,12,12,12,14,11,11,12,14,14,13,14,13,12,13,13,13,- - -,Right Only,12,12,12,13,13
+,28116526,Aji Alese - Nigerian,Sunderland - Sky Bet Championship,D (LC),22,Unknown,£4M - £6M,"£12,000 p/w",4,12,15,10,13,12,12,11,15,13,11,12,12,12,12,11,13,- - -,Left,9,12,11,15,14
+,96026801,Tomasz Kędziora - Polish,PAOK - Greek Super League 1,D (RC),29,Unknown,£3.8M - £7.2M,"£9,750 p/w",3,14,12,10,16,10,13,10,13,13,11,14,11,12,14,12,13,- - -,Right,12,15,15,15,13
+Wnt,7990060,Matteo Darmian - Italian,Inter - Italian Serie A,"D (RLC), WB (RL), M (R)",34,,£3.7M - £5.4M,"£53,000 p/w",3,13,12,10,14,12,13,13,13,14,12,16,13,14,16,12,14,- - -,Right,12,16,17,14,12
+Int,49044569,Moussa Diarra - Malian,Toulouse FC - Ligue 1 Uber Eats,"D (LC), WB (L), DM",23,,£3.6M - £6.6M,"£7,250 p/w",3,12,13,12,12,13,13,12,12,12,12,12,12,13,13,13,13,- - -,Left,11,13,13,13,13
+,91101321,Lukas Kübler - German,SC Freiburg - Bundesliga,"D (RLC), WB (R)",31,Unknown,£3.5M - £6.8M,"£22,000 p/w",3,13,13,11,16,11,13,11,15,13,12,12,11,12,14,11,13,- - -,Right,11,16,14,16,13
+,43190965,Riccardo Marchizza - Italian,Frosinone - Italian Serie A,D/WB (L),25,Unknown,£2.9M - £5.6M,"£21,500 p/w",1,14,12,11,12,11,14,12,14,13,13,13,12,13,13,12,14,- - -,Left Only,13,14,14,14,13
+,27139789,Kristoffer Lund - American,Palermo - Italian Serie B,D (RL),21,Unknown,£2.8M - £5.6M,"£7,250 p/w",2,12,13,13,12,12,8,12,14,13,13,13,12,13,12,13,13,- - -,Left,13,13,15,15,14
+Wnt,85045661,Dimitri Foulquier - Guadeloupean,Valencia - Spanish First Division,"D (RL), WB (R)",30,Unknown,£2.8M,"£7,750 p/w",3,14,11,10,14,11,9,11,15,13,13,13,13,12,12,9,13,- - -,Right,13,12,13,14,15
+,28051665,Conor Townsend - English,West Brom - Sky Bet Championship,"D (LC), WB (L)",30,Unknown,£2.2M - £4.5M,"£15,000 p/w",2,12,11,12,12,11,10,11,12,14,12,14,11,12,13,13,12,- - -,Left Only,12,12,14,15,12
+Lst,37046941,Hans Hateboer - Dutch,Vigo - Spanish First Division,D/WB/M (R),29,Unknown,£2.1M,"£24,500 p/w",2,16,14,8,15,11,13,10,16,13,11,14,13,12,14,10,13,- - -,Right,12,16,15,15,15
+,67050445,Enric Saborit - Israeli,Maccabi Tel-Aviv - Israeli Premier League,"D (LC), WB (L)",31,Unknown,£1.6M - £3.3M,"£11,000 p/w",3,12,12,15,15,12,11,11,12,13,13,12,13,15,14,12,13,- - -,Left,12,14,14,14,11
+,43424729,Alessio Buttaro - Italian,Palermo - Italian Serie B,"D (RC), WB (R)",21,Unknown,£1.2M - £2.5M,"£2,800 p/w",1,11,10,6,12,11,11,9,12,14,15,13,12,12,13,11,12,- - -,Right Only,13,12,8,13,12
+,78094302,Gastón Álvarez - Uruguayan,Getafe - Spanish First Division,D (LC),23,,£1M - £7M,"£27,500 p/w",2,13,12,10,15,11,14,10,14,12,12,13,12,14,13,9,14,- - -,Left,10,14,14,14,13
+Wnt,93031462,Emil Krafth - Swedish,Newcastle - English Premier Division,D/WB (R),29,Unknown,£1M,"£35,000 p/w",2,13,12,14,13,13,12,11,15,13,12,12,12,13,13,12,12,- - -,Right,13,13,14,14,14
+Trn,52094657,Liam Scales - Irish,Preston - Sky Bet Championship,"D (LC), WB (L)",25,Unknown,£1M,"£5,000 p/w",4,10,12,13,11,13,14,12,12,12,13,12,14,12,13,14,12,- - -,Left Only,12,13,14,14,12
+,52012309,Enda Stevens - Irish,Stoke - Sky Bet Championship,D/WB (L),33,Unknown,£950K - £2M,"£8,000 p/w",3,12,11,13,12,13,11,12,12,14,12,13,12,13,13,12,12,- - -,Left Only,11,13,15,16,12
+Trn,67147196,Carlos Clerc - Spanish,OM - Ligue 1 Uber Eats,D/WB (L),31,Unknown,£950K,"£15,750 p/w",2,12,10,12,14,12,10,12,15,13,14,14,12,13,13,11,13,- - -,Left,13,15,15,14,14
+,27053632,Mikkel Desler - Danish,Toulouse FC - Ligue 1 Uber Eats,D/WB (R),28,Unknown,£900K - £9.4M,"£14,250 p/w",1,12,13,12,13,13,11,12,12,12,13,12,12,13,13,13,13,- - -,Right,13,12,15,15,13
+,14123589,Francisco Oliver - Argentinian,Aldosivi - Argentine Second Division,D (LC),28,Unknown,£900K - £1.9M,"£1,100 p/w",3,12,12,9,12,11,12,10,12,13,12,12,12,13,13,9,13,- - -,Left,10,13,13,13,13
+,43094093,Valerio Mantovani - Italian,Ternana - Italian Serie B,D (RC),27,Unknown,£850K - £1.8M,"£6,000 p/w",3,10,11,11,13,10,13,10,12,13,12,12,11,14,12,10,12,- - -,Right,10,13,13,13,13
+Lst,43037008,Mattia De Sciglio - Italian,Juventus - Italian Serie A,D/WB (RL),31,Unknown,£850K,"£46,000 p/w",2,12,11,10,12,12,12,12,13,14,12,12,12,14,13,13,13,- - -,Right,12,17,15,12,13
+Int,55082206,Abdu Conté - Bissau-Guinean,Troyes - Ligue 2 BKT,D/WB (L),25,Unknown,£800K - £8.2M,"£10,500 p/w",1,15,13,13,14,13,11,11,14,12,13,13,13,13,13,13,12,- - -,Left Only,13,13,14,14,12
+,19362907,Caetano - Brazilian,COR - Brazilian National First Division,D (LC),24,Unknown,£800K - £4.8M,"£5,250 p/w",2,12,11,9,12,11,13,10,12,14,12,12,11,12,14,10,15,- - -,Left,9,13,13,14,13
+Ask,43140923,Paolo Ghiglione - Italian,Cremonese - Italian Serie B,D/WB/M (R),26,Unknown,£800K,"£18,250 p/w",3,12,14,13,12,11,12,12,13,12,10,13,12,12,12,12,12,- - -,Right,13,11,12,13,13
+,62161277,Aleksa Amanović - Macedonian,Astana - Kazakhstan Premier League,D/WB (L),27,Unknown,£750K - £1.6M,"£15,500 p/w",3,12,13,12,10,11,11,13,13,13,13,13,13,12,13,12,12,- - -,Left,13,13,13,12,13
+Wnt,28011526,Luke Ayling - English,Leeds - Sky Bet Championship,"D (RC), WB (R)",32,,£750K,"£19,250 p/w",1,12,12,11,16,11,13,11,12,13,12,13,12,12,14,11,13,- - -,Right,12,15,18,15,11
+,37046274,Hidde ter Avest - Dutch,FC Utrecht - Eredivisie,"D (RC), WB (R)",26,Unknown,£650K - £8.8M,"£6,750 p/w",2,13,13,12,12,13,12,11,13,13,13,12,11,14,12,11,12,- - -,Right Only,13,14,15,13,13
+,67294055,Sergi Cardona - Spanish,Las Palmas - Spanish First Division,D/WB/M (L),24,Unknown,£650K - £4.5M,"£12,250 p/w",1,12,12,13,13,14,6,12,14,12,13,13,12,12,13,11,12,- - -,Left,12,13,13,14,13
+Wnt,85080137,Théo Pellenard - French,AJ Auxerre - Ligue 2 BKT,D (LC),29,Unknown,£650K - £1.4M,"£5,250 p/w",3,11,12,12,14,12,12,12,12,13,12,12,10,13,13,12,12,- - -,Left,11,13,12,14,11
+,91109613,Tobias Pachonik - German,Stabæk - Norwegian Premier Division,D/WB/M (R),28,Unknown,£550K - £1.1M,"£1,200 p/w",1,12,11,12,12,12,10,12,13,12,11,13,11,12,13,11,12,- - -,Right Only,11,13,14,13,13
+,67101620,Álex Muñoz - Spanish,Levante - Spanish Second Division,"D (LC), WB (L)",29,Unknown,£500K - £6.8M,"£8,500 p/w",3,12,13,13,12,13,12,12,14,13,13,12,13,13,13,13,12,- - -,Left Only,14,13,13,14,13
+,67235978,Juan Iglesias - Spanish,Valencia - Spanish First Division,D/WB (R),25,Unknown,£500K - £5.2M,"£7,250 p/w",3,13,10,11,14,13,10,13,15,13,12,13,12,13,13,12,12,- - -,Right,14,13,13,14,13
+Int,85122415,Almamy Touré - Malian,Brest - Ligue 1 Uber Eats,"D (RC), WB (R)",27,,£500K - £3.5M,"£11,250 p/w",3,13,13,11,15,13,13,12,16,12,12,12,13,13,15,12,13,- - -,Right,13,12,13,12,13
+,2000049422,Rubén Sánchez - Spanish,Mirandés - Spanish Second Division,D/WB/M/AM (R),22,Unknown,£475K - £6.8M,"£7,500 p/w",1,11,9,12,12,12,8,8,13,12,13,13,12,13,14,11,12,- - -,Right,13,12,12,12,14
+,27089250,Kristian Pedersen - Danish,Swansea - Sky Bet Championship,"D (LC), WB (L)",29,Unknown,£450K - £4.4M,"£16,500 p/w",2,14,14,9,16,11,14,10,14,12,11,12,10,12,13,11,12,- - -,Left,12,13,16,16,12
+Wnt,91199263,Henning Matriciani - German,Schalke 04 - Bundesliga 2,"D (RLC), WB (R)",23,Unknown,£425K - £4M,"£10,750 p/w",1,13,13,8,17,8,12,9,15,13,11,13,10,13,13,11,13,- - -,Right,8,17,17,15,12
+Wnt,91143881,Robin Fellhauer - German,Elversberg - Bundesliga 2,"D (RC), WB (R)",25,Unknown,£425K - £1.3M,"£2,900 p/w",1,12,12,12,13,11,12,11,13,12,10,12,11,12,12,12,12,- - -,Right Only,12,15,13,14,12
+,14153906,Nahuel Tenaglia - Argentinian,Alavés - Spanish First Division,"D (RC), WB (R)",27,Unknown,£400K - £7M,"£4,800 p/w",4,12,10,11,15,11,12,12,14,14,13,12,12,13,15,12,14,- - -,Right,11,13,14,12,14
+,67288450,Abel Bretones - Spanish,Oviedo - Spanish Second Division,D/WB/M/AM (L),23,Unknown,£400K - £3.9M,"£3,600 p/w",2,13,10,9,5,11,13,11,13,12,12,13,9,12,13,15,12,- - -,Left Only,12,12,12,13,13
+,91126210,Benno Schmitz - German,1. FC Köln - Bundesliga,"D (RL), WB (R)",29,Unknown,£375K - £7.4M,"£21,500 p/w",2,12,11,12,14,12,11,12,12,12,13,13,13,12,14,12,12,- - -,Right,14,16,14,15,12
+Loa,93104384,Oliver Zandén - Swedish,Toulouse FC - Ligue 1 Uber Eats,D/WB (L),22,Unknown,£350K - £3.6M,"£4,700 p/w",3,11,10,12,12,12,9,12,13,13,12,12,12,13,13,12,12,- - -,Left,13,12,12,13,13
+,28085586,Nikolas Ioannou - Cypriot,Como - Italian Serie B,D/WB/M (L),28,Unknown,£350K - £3.5M,"£10,000 p/w",4,14,14,10,14,11,14,12,13,12,12,12,12,12,13,10,12,- - -,Left,12,13,13,15,13
+Wnt,16008969,Christopher Trimmel - Austrian,Union Berlin - Bundesliga,D/WB (R),36,Unknown,£350K - £1.1M,"£22,000 p/w",1,13,14,12,15,12,13,12,13,12,13,13,14,13,12,12,12,- - -,Right,16,16,16,13,11
+,29140223,Regan Poole - Welsh,Portsmouth - Sky Bet League One,"D (RC), WB (R)",25,Unknown,£325K - £3.3M,"£4,000 p/w",2,13,13,10,11,12,12,11,12,13,12,12,12,13,13,12,12,- - -,Right,11,14,13,14,11
+,67220442,Iván Martos - Spanish,Huesca - Spanish Second Division,"D (LC), WB (L)",26,Unknown,£325K - £3.2M,"£4,400 p/w",1,10,11,10,13,11,11,12,13,13,13,13,12,13,12,12,13,- - -,Left,12,12,12,13,13
+,78097296,Federico Pereira - Uruguayan,Liverpool F.C. - Uruguayan First Division,D (RC),23,Unknown,£325K - £3.1M,£925 p/w,2,13,14,11,12,13,12,12,13,12,12,12,11,12,12,11,13,- - -,Right,12,13,13,12,11
+,37053040,Pantelis Hatzidiakos - Greek,Cagliari - Italian Serie A,D (RC),26,Unknown,£300K - £3.1M,"£15,750 p/w",2,13,14,12,13,12,12,13,13,15,10,14,13,13,13,11,12,- - -,Right,6,16,15,15,13
+Wnt,43390940,Alessandro Zanoli - Italian,Parthenope - Italian Serie A,"D (RC), WB (R)",23,Unknown,£300K - £3M,"£12,250 p/w",2,14,13,10,11,11,11,11,14,13,12,14,12,13,14,11,12,- - -,Right,11,13,13,14,13
+,85072878,Jordan Lefort - French,Angers SCO - Ligue 2 BKT,D (LC),30,Unknown,£300K - £2.9M,"£5,000 p/w",2,12,13,10,13,11,13,12,12,12,13,13,11,13,13,12,12,- - -,Left Only,11,13,14,14,12
+,2000050928,Jeyson Rojas - Chilean,Colo Colo - Chilean First Division,D (RC),21,Unknown,£250K - £2.6M,"£1,400 p/w",2,13,13,10,13,9,12,11,14,13,12,12,10,14,12,9,12,- - -,Right,12,12,13,13,13
+,19249923,Léo Gomes - Brazilian,REM - Brazilian National Second Division,"D/WB (R), DM",27,Unknown,£250K - £2.5M,"£3,200 p/w",1,11,12,8,13,13,12,12,13,13,13,12,11,13,12,11,13,- - -,Right Only,13,13,13,14,13
+,43167656,Yoan Severin - French,Servette - Swiss Super League,D (LC),26,Unknown,£250K - £2.5M,"£4,100 p/w",1,13,12,10,14,9,12,12,13,12,12,12,11,12,13,12,13,- - -,Left,9,14,15,13,12
+,14152856,Lucas Angelini - Argentinian,Central Córdoba (SdE) - Argentine Second Division,D/WB (L),28,Unknown,£220K - £2.2M,£875 p/w,1,12,10,8,13,9,10,13,14,12,12,12,12,13,14,10,12,- - -,Left Only,8,13,14,13,13
+,43390700,Christian Pastina - Italian,Benevento - Italian Serie C/C,D (LC),22,Unknown,£200K - £2M,£825 p/w,3,13,13,12,9,12,13,12,13,12,12,12,8,13,12,13,13,- - -,Left Only,13,11,10,12,13
+,29176617,Tom Hamer - English,Burton - Sky Bet League One,D/WB (RL),24,Unknown,£200K - £600K,"£2,000 p/w",3,13,13,9,12,10,12,10,12,13,10,12,10,12,12,10,12,- - -,Right,10,12,13,13,13
+,98031298,Florent Hadergjonaj - Kosovan,Alanyaspor - Turkish Super League,D/WB (R),29,Unknown,£190K - £1.9M,"£5,250 p/w",1,9,12,8,10,12,9,12,15,13,10,13,10,12,12,12,12,- - -,Right,14,14,14,15,12
+,78043782,Gastón Silva - Uruguayan,Puebla - Mexican First Division,"D (LC), WB (L)",29,Unknown,£190K - £1.9M,"£6,000 p/w",1,14,12,8,15,10,13,13,13,13,11,13,11,13,13,11,13,- - -,Left,12,14,15,14,12
+,37064804,Shaquille Pinas - Surinamese,Hammarby IF - Swedish Premier Division,"D (LC), DM",25,Unknown,£160K - £1.6M,"£2,200 p/w",2,13,12,11,14,12,12,11,12,13,12,12,13,12,13,13,13,- - -,Left Only,11,12,12,14,12
+Wnt,14221546,Juan Barinaga - Argentinian,Belgrano - Argentine Premier Division,D/WB (R),23,Unknown,£150K - £6M,"£2,100 p/w",1,11,12,10,13,12,11,11,14,12,13,12,13,13,13,12,13,- - -,Right,13,12,14,13,13
+,92021650,Anthony Jung - German,SV Werder - Bundesliga,"D (LC), WB (L)",32,Unknown,£150K - £1.5M,"£14,750 p/w",3,12,12,11,14,11,13,12,12,13,12,13,13,12,13,12,13,- - -,Left,13,16,16,15,12
+,43392847,Simone Giordano - Italian,Sampdoria - Italian Serie B,D/WB/M (L),22,Unknown,£140K - £1.4M,"£4,800 p/w",2,11,8,12,12,11,10,10,12,12,12,12,12,12,12,13,13,- - -,Left,12,13,13,14,12
+,92065838,Pascal Stenzel - German,VfB Stuttgart - Bundesliga,"D/WB (R), DM",27,Unknown,£130K - £7.2M,"£16,500 p/w",1,12,12,12,15,11,12,12,12,12,14,12,13,12,12,13,12,- - -,Right,11,17,13,15,11
+Wnt,67228752,Carlos Isaac - Spanish,Albacete - Spanish Second Division,D/WB (R),25,Unknown,£130K - £1.3M,"£2,700 p/w",4,13,11,8,14,12,8,10,13,12,12,12,12,12,14,11,12,- - -,Right,10,13,12,14,12
+,27013502,Nicolai Boilesen - Danish,FC København - 3F Superliga,"D (LC), WB (L)",31,Unknown,£130K - £1.3M,"£11,250 p/w",1,10,14,14,14,15,10,14,12,14,13,14,15,14,12,14,13,- - -,Left,13,14,12,13,11
+,43500373,Jonas Heinz - Italian,Taranto - Italian Serie C/C,D/WB (R),20,Unknown,£130K - £400K,£775 p/w,1,11,11,8,8,9,12,8,12,12,11,14,11,13,13,11,12,- - -,Right Only,10,14,13,12,11
+Wnt,19354991,Danilo Boza - Brazilian,JUV - Brazilian National First Division,"D (RC), WB (R)",25,Unknown,£120K - £1.2M,"£7,000 p/w",3,11,13,11,13,12,13,12,13,14,12,12,10,12,14,12,14,- - -,Right Only,10,12,12,13,13
+,67272071,Salva Ferrer - Spanish,Anorthosi - Cypriot First Division,"D (RC), WB (R)",25,Unknown,£120K - £1.2M,"£5,250 p/w",1,12,9,10,12,13,14,12,13,13,11,12,12,13,13,13,12,- - -,Right,12,12,13,13,12
+,18077340,Gilles Dewaele - Belgian,Standard - Jupiler Pro League,D/WB/M (R),27,Unknown,£110K - £1.1M,"£2,100 p/w",3,10,8,8,12,11,10,11,12,13,14,12,13,13,12,10,12,- - -,Right Only,12,14,11,15,13
+,18089505,Jules Van Cleemput - Belgian,Charleroi - Jupiler Pro League,D/WB (R),26,Unknown,£110K - £325K,"£3,400 p/w",1,11,11,10,12,11,9,11,13,12,12,14,10,12,12,11,12,- - -,Right,8,14,15,11,13
+,48037272,Fabien Centonze - French,FC Nantes - Ligue 1 Uber Eats,"D/WB (R), DM, M (R)",27,Unknown,£100K - £6.4M,"£8,750 p/w",1,12,10,13,14,12,8,12,14,13,13,13,13,13,13,11,12,- - -,Right,13,13,13,15,13
+,18004526,Marvin Peersman - Belgian,FC Groningen - Keuken Kampioen Divisie,"D (LC), WB (L)",32,Unknown,£100K - £1M,"£1,900 p/w",3,8,10,13,13,12,9,11,14,12,11,13,12,12,12,13,12,- - -,Left Only,10,13,12,12,13
+Wnt,22033474,Anton Nedyalkov - Bulgarian,Ludogorets - Bulgarian First League,D (LC),30,Unknown,£95K - £950K,"£8,250 p/w",4,12,13,10,11,11,11,11,15,13,10,14,11,12,13,11,12,- - -,Right,11,17,15,14,14
+,78069840,Richard Fernández - Uruguayan,Guaireña - Paraguay First Division Primera División,D (RLC),27,Unknown,£95K - £950K,"£1,900 p/w",3,13,14,10,14,7,13,9,13,13,8,13,7,13,12,9,12,- - -,Right,9,15,15,12,11
+,43096422,Cristian Dell'Orco - Italian,Perugia - Italian Serie C/B,"D (LC), WB (L)",29,Unknown,£90K - £900K,"£18,250 p/w",2,12,11,11,12,13,11,12,12,12,11,12,12,13,13,11,12,- - -,Left,11,14,14,13,12
+Wnt,43390159,Federico Bonini - Italian,Entella - Italian Serie C/B,D (LC),22,Unknown,£80K - £800K,"£2,400 p/w",1,12,11,10,14,9,12,11,13,13,12,12,10,13,13,10,12,- - -,Left,9,10,13,14,12
+,49054998,Paul Joly - French,AJ Auxerre - Ligue 2 BKT,D (R),23,Unknown,£70K - £6.8M,"£7,250 p/w",2,12,12,11,12,10,12,12,13,14,11,12,13,15,13,11,12,- - -,Right,14,14,14,15,13
+,43124947,Luca Vignali - Italian,Como - Italian Serie B,D/WB/M (R),27,Unknown,£70K - £700K,"£5,750 p/w",2,10,9,11,11,12,13,12,13,12,12,12,12,12,12,14,12,- - -,Right,13,13,14,12,13
+Inj,92038030,Luca Zander - German,Sandhausen - 3. Liga,D/WB (R),28,Unknown,£65K - £650K,"£4,100 p/w",1,10,12,11,12,12,12,12,13,12,12,12,11,12,12,12,12,- - -,Right,12,15,13,13,11
+,28029911,Paul Dummett - Welsh,Newcastle - English Premier Division,D (LC),32,,£65K - £650K,"£40,000 p/w",3,13,12,8,15,10,14,11,13,14,12,14,11,14,15,10,13,- - -,Left,12,17,15,14,14
+,85033648,Lionel Carole - French,Kayserispor - Turkish Super League,D/WB (L),32,Unknown,£65K - £650K,"£5,750 p/w",1,12,12,7,12,12,12,12,13,12,10,12,11,12,14,10,13,- - -,Left Only,14,14,13,14,14
+,43075043,Filippo De Col - Italian,Vicenza - Italian Serie C/A,D/WB/M (R),30,Unknown,£60K - £600K,"£6,500 p/w",1,12,11,12,11,12,12,12,13,13,12,12,11,13,13,13,13,- - -,Right Only,12,14,13,12,13
+Inj,98038279,Silvan Hefti - Swiss,Genoa - Italian Serie A,"D (RC), WB (R)",26,Unknown,£45K - £475K,"£17,000 p/w",4,12,11,10,13,12,11,11,14,13,13,13,14,12,13,12,12,- - -,Right Only,12,14,15,17,13
+Int,18083607,Nathan de Medina - Cape Verdean,Partizan - Serbian SuperLeague,D (RLC),26,Unknown,£40K - £425K,"£1,700 p/w",1,14,13,11,16,11,13,11,14,13,10,12,10,12,14,12,13,- - -,Right,10,12,13,12,13
+Inj,92101515,Meiko Sponsel - German,1. FC Köln II - German Regional Division West,"D (RC), WB/M (R)",21,Unknown,£40K - £375K,"£5,000 p/w",1,12,10,9,9,8,12,11,12,12,8,14,8,13,12,9,12,- - -,Right,10,10,12,14,12
+Inj,43052618,Cristiano Piccini - Italian,Magdeburg - Bundesliga 2,"D (RC), WB (R)",31,Unknown,£35K - £375K,"£4,700 p/w",1,12,13,12,12,12,12,12,12,12,12,12,13,12,13,13,12,- - -,Right,10,13,12,10,12
+,18096680,Thibault De Smet - Belgian,Reims - Ligue 1 Uber Eats,D/WB (L),25,Unknown,£28K - £4.7M,"£3,400 p/w",3,11,14,11,13,11,13,12,13,12,12,14,13,13,13,12,14,- - -,Left,13,12,12,13,12
+,43254335,Filippo Delli Carri - Italian,Padova - Italian Serie C/A,"D (RC), WB (R)",24,Unknown,£28K - £300K,"£2,900 p/w",3,11,12,7,13,8,12,11,12,12,12,14,13,12,12,8,14,- - -,Right Only,7,14,12,12,12
+Wnt,19213044,Willian Formiga - Brazilian,CEA - Brazilian National First Division,D (LC),28,Unknown,£28K - £275K,£850 p/w,3,15,14,11,14,11,13,9,12,13,12,12,11,12,13,12,12,- - -,Left Only,9,13,14,13,12
+,67186783,Carlos Vigaray - Spanish,Fuenlabrada - Spanish Federation First Division A,D/WB (R),29,Unknown,£28K - £275K,"£3,200 p/w",1,13,12,9,13,11,12,12,13,13,11,14,12,13,14,11,13,- - -,Right,12,16,15,15,12
+,28047408,Jake Bidwell - English,Coventry - Sky Bet Championship,"D (LC), WB (L)",30,Unknown,£22K - £5.4M,"£9,500 p/w",3,14,13,8,17,11,13,10,13,12,11,12,9,12,14,8,12,- - -,Left Only,14,14,15,15,11
+,91206158,Jonathan Riemer - German,Rödinghausen - German Regional Division West,"D (LC), DM",23,Unknown,£22K - £210K,"£1,400 p/w",4,8,9,7,10,8,10,11,14,14,12,14,4,12,14,10,12,- - -,Left Only,10,10,10,9,14
+Inj,75015371,Augusto Barrios - Chilean,Curicó Unido - Chilean First Division,"D/WB (R), M (C)",32,Unknown,£20K - £210K,"£1,300 p/w",1,12,10,10,16,8,11,11,12,13,11,12,13,13,13,8,13,- - -,Right,13,14,13,13,12
+Wnt,67227604,Blas - Spanish,Águilas - Spanish Federation Second Group 4,D/WB (R),26,Unknown,£20K - £200K,"£1,400 p/w",1,11,9,9,13,11,10,11,13,12,13,13,10,12,12,10,12,- - -,Right,12,13,13,12,12
+,43068464,Gianni Manfrin - Italian,Virtus Verona - Italian Serie C/A,D/WB (L),30,Unknown,£20K - £190K,"£1,100 p/w",3,12,10,9,11,10,10,12,12,13,11,12,9,13,13,11,12,- - -,Left,7,12,11,12,11
+,67278100,Simón Lecea - Spanish,Calahorra - Spanish Federation Second Group 2,D (RC),23,Unknown,£18K - £190K,£975 p/w,1,13,12,8,12,9,12,5,13,12,11,12,11,13,12,10,12,- - -,Right Only,8,12,13,14,10
+,18018651,Pierre-Yves Ngawa - Belgian,OH Leuven - Jupiler Pro League,D (RC),31,Unknown,£16K - £160K,"£1,700 p/w",4,11,12,8,12,10,10,10,14,12,13,13,12,14,13,9,12,- - -,Right Only,12,14,14,12,13
+,28047506,Tommy Smith - English,Middlesbrough - Sky Bet Championship,"D (RC), WB (R)",31,Unknown,£10K - £5.2M,"£10,000 p/w",1,12,11,13,14,12,12,12,12,13,13,13,12,12,13,12,12,- - -,Right,13,16,15,13,11
+Int,85140284,Fodé Ballo-Touré - Senegalese,Fulham - English Premier Division,D/WB/M (L),26,,£10K - £4.8M,"£21,000 p/w",4,12,11,10,14,11,10,11,16,12,12,12,11,13,14,12,13,- - -,Left Only,13,14,13,16,15
+Wnt,13199835,Mouhamed Ouattara - Burkinabé,Al-Mina'a - Iraqi First Division Group B,D (LC),30,Unknown,£3K - £30K,£375 p/w,4,9,8,8,10,6,13,9,12,12,14,12,7,13,13,7,14,- - -,Left,12,8,6,11,13
+Wnt,86034612,Luis Del Pino Mago - Venezuelan,-,D (LC),29,Unknown,£0,-,2,14,13,11,12,12,13,11,13,13,11,13,11,14,13,12,13,- - -,Left,11,14,12,14,12
+FrA,19123883,Danilo Avelar - Brazilian,-,"D (LC), WB (L)",34,Unknown,£0,-,3,11,13,12,14,11,16,11,12,12,12,12,11,13,12,11,12,- - -,Left Only,11,14,15,13,11
+Int,34009070,Allan Nyom - Cameroonian,Leganés - Spanish Second Division,"D (RLC), WB/M (R)",35,Unknown,Not for Sale,"£6,500 p/w",4,15,14,10,16,12,12,11,12,13,12,13,13,14,15,11,13,- - -,Right Only,11,16,15,14,12
+,92025551,Niko Gießelmann - German,Fürth - Bundesliga 2,D/WB (L),32,Unknown,Not for Sale,"£8,250 p/w",1,10,12,11,15,11,11,12,12,12,12,12,11,13,12,11,12,- - -,Left,12,16,16,15,12
+,92025552,Marcel Halstenberg - German,Hannover - Bundesliga 2,"D (LC), WB (L)",32,Unknown,Not for Sale,"£16,500 p/w",1,14,14,12,13,13,13,13,13,13,13,13,15,13,13,13,13,- - -,Left,13,16,14,12,11
+,29061164,Dan Burn - English,Newcastle - English Premier Division,D (LC),31,Unknown,Not for Sale,"£70,000 p/w",2,16,19,10,17,12,14,12,12,15,14,14,13,15,15,13,15,- - -,Left,9,17,17,15,9
+,85051536,Faouzi Ghoulam - Algerian,Hatayspor - Turkish Super League,D/WB (L),32,Unknown,Not for Sale,"£7,250 p/w",2,11,12,11,12,14,11,14,12,13,12,13,13,13,14,14,12,- - -,Left Only,15,14,16,9,10
+,37024733,Joël Veltman - Dutch,Brighton - English Premier Division,D (RC),31,Unknown,Not for Sale,"£55,000 p/w",2,11,13,11,16,13,14,13,12,17,15,16,14,15,16,13,14,- - -,Right,11,14,14,13,12
+nEU,19099575,Danilo - Brazilian,Juventus - Italian Serie A,D (RLC),32,Unknown,Not for Sale,"£85,000 p/w",2,13,12,14,16,14,13,14,12,16,14,14,14,16,15,14,13,- - -,Right,13,16,16,14,13
+,52032335,Matt Doherty - Irish,Wolves - English Premier Division,D/WB (R),31,Unknown,Not for Sale,"£50,000 p/w",1,13,13,13,13,13,13,13,12,13,14,14,13,13,13,13,13,- - -,Right,12,14,13,14,12
+,98003635,Ricardo Rodríguez - Swiss,Torino - Italian Serie A,"D (LC), WB (L)",31,Unknown,Not for Sale,"£36,500 p/w",2,13,12,12,14,13,14,13,12,14,14,13,13,15,14,13,13,- - -,Left,14,14,12,13,13
+,62054709,Risto Radunović - Montenegrin,FCSB - Romanian First League,D (L),31,Unknown,Not for Sale,"£3,200 p/w",2,14,12,11,15,8,9,13,13,14,12,12,12,13,13,11,12,- - -,Left,13,12,13,12,10
+,76014918,William Tesillo - Colombian,León - Mexican First Division,D (LC),33,Unknown,Not for Sale,"£17,750 p/w",3,12,12,12,13,12,10,12,12,15,13,12,11,14,14,13,13,- - -,Left,11,13,12,12,11
+,76003740,Andrés Mosquera - Colombian,Toluca - Mexican First Division,"D (RC), WB (R)",33,Unknown,Not for Sale,"£18,250 p/w",4,12,13,13,14,12,16,12,12,13,14,13,13,13,12,13,12,- - -,Right,12,13,13,12,12
+nEU,62095383,Adam Marušić - Montenegrin,Lazio - Italian Serie A,"D (RL), WB (R)",31,Unknown,Not for Sale,"£51,000 p/w",3,15,13,11,16,12,8,12,15,15,13,13,13,12,12,12,15,- - -,Right,12,16,16,15,14
+,25019787,Pavel Kadeřábek - Czech,TSG Hoffenheim - Bundesliga,D/WB (R),31,Unknown,Not for Sale,"£33,000 p/w",2,12,13,11,15,11,14,11,13,13,12,12,11,13,12,11,12,- - -,Right,15,15,17,16,13
+,43029905,Cristiano Biraghi - Italian,Fiorentina - Italian Serie A,D/WB (L),31,Unknown,Not for Sale,"£52,000 p/w",3,13,12,14,13,13,11,12,15,14,12,12,11,12,13,14,12,- - -,Left,16,15,14,15,14
+,43028239,Alessandro Favalli - Italian,Mantova - Italian Serie C/A,D/WB/M (L),31,Unknown,Not for Sale,"£1,100 p/w",3,12,10,9,10,11,9,11,12,12,10,12,9,12,12,11,12,- - -,Left Only,12,12,13,12,12
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://www.sigames.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
